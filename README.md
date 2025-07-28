@@ -1,4 +1,4 @@
-# Spring Boot CI/CD Demo Application
+# Spring Boot CI/CD Application
 
 This is a simple Spring Boot web application created to demonstrate a CI/CD pipeline using **GitHub**, **Jenkins**, and **AWS EC2**.
 
@@ -15,7 +15,6 @@ This project demonstrates:
 - Java 17
 - Spring Boot
 - Maven
-- Eclipse IDE
 - Git & GitHub
 - Jenkins
 - AWS EC2
